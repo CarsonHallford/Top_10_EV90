@@ -1,4 +1,4 @@
-# Top_10_EV90
+# Top 10 Hitters by 90th Percentile Exit Velocity Leaderboard
 
 This is a script that utilizes the MLB Scraper Modulue by Tnestico to scrape MLB data.
 
